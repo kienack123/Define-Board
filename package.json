@@ -1,0 +1,17 @@
+{
+  "name": "com.kienack123.define-board",
+  "version": "1.0.0",
+  "displayName": "Define Board",
+  "description": "Turn scripting define symbols on and off from a table of switches instead of editing one long semicolon-separated string in Player Settings. Editor only.",
+  "unity": "6000.2",
+  "author": {
+    "name": "KienTran",
+    "url": "https://github.com/kienack123"
+  },
+  "keywords": [
+    "editor",
+    "defines",
+    "scripting-define-symbols",
+    "tools"
+  ]
+}
